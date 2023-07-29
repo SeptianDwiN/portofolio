@@ -169,7 +169,7 @@
           aria-expanded="false">
           <!-- User avatar -->
           <img
-            src="../assets/fotoprofile.jpg"
+            src="https://tecdn.b-cdn.net/img/new/avatars/2.jpg"
             class="rounded-full"
             style="height: 25px; width: 25px"
             alt=""

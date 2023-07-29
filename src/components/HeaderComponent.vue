@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-row">
     <div class="basis-1/2 pl-20 pt-16 ml-20" >
-      <img src="../assets/fotoprofile.jpg" class="w-100 rounded-full" alt="Foto" width="200"></div>
+      <img src="https://tecdn.b-cdn.net/img/new/avatars/2.jpg" class="w-100 rounded-full" alt="Foto" width="200"></div>
     <div class="basis-1/2 pl-14 " id="home">
       <p class="selamatdatang pt-16">Hello! Introduce!</p>
       <p class="selamatdatang"> Septian Dwi Nugraha</p>
